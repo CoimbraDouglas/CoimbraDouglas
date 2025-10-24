@@ -1,6 +1,6 @@
 <!-- Banner / Saudação -->
 <h1 align="center">👋 Olá, eu sou o Douglas Coimbra!</h1>
-<h3 align="center">💻 Desenvolvedor | 🌱 Apaixonado por tecnologia, designe e inovação</h3>
+<h3 align="center">💻 Desenvolvedor | 🌱 Apaixonado por tecnologia, design e inovação</h3>
 
 <!-- GIF animado -->
 <p align="center">
