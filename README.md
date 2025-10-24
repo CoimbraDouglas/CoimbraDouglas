@@ -13,7 +13,7 @@
 - 🎓 Bacharel em **Arquivologia**, especialista em **Arquivos Digitais**  
 - 💡 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🧠 Interesse em **Java, SQL, React Native, C# (Unity)** e **Inteligência Artificial**  
-- 🎮 Criador de jogos e aplicativos com foco em impacto positivo  
+- 🎮 Apaixonado por jogos e animes  
 
 ---
 
@@ -56,17 +56,10 @@
   <img src="https://raw.githubusercontent.com/CoimbraDouglas/CoimbraDouglas/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha das contribuições do GitHub" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/CoimbraDouglas">
-    🌟 Veja mais no meu perfil do GitHub
-  </a>
-</p>
-
-
 ---
 
 ### 💬 Frase que me inspira
-> *"A tecnologia move o mundo, mas a empatia o mantém humano."*
+> *"Um povo que não conhece sua história está fadado a repeti-la."*
 
 ---
 
