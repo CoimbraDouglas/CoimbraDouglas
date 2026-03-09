@@ -11,9 +11,9 @@
 
 ### 🚀 Sobre mim  
 - 🎓 Bacharel em **Arquivologia**, especialista em **Arquivos Digitais**  
-- 💡 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 💡 Formado em **Análise e Desenvolvimento de Sistemas**  
 - 🧠 Interesse em **Java, SQL, React Native, C# (Unity)** e **Inteligência Artificial**  
-- 🎮 Apaixonado por jogos e animes  
+- 🎮 Programador Renpy  
 
 ---
 
