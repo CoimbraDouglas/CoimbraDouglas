@@ -16,7 +16,7 @@
 - 💡 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🧠 Interesse em **Java, SQL, React Native, C# (Unity)** e **Inteligência Artificial**
 - 🎮 Programador **Ren'Py**
-- 🎨 7 anos de experiência com **Photoshop e CorelDRAW**
+- 🎨 8 anos de experiência com **Photoshop e CorelDRAW**
 - 🧩 Gosto de criar coisas e ouvir histórias
 
 <br>
